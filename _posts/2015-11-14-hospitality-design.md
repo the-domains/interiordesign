@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-14T05:57:57.872Z'
-dateModified: '2015-11-14T05:57:54.419Z'
+datePublished: '2015-11-14T06:20:56.502Z'
+dateModified: '2015-11-14T06:20:51.921Z'
 author: []
 title: Hospitality Design
 sourcePath: _posts/2015-11-14-hospitality-design.md
