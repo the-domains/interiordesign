@@ -6,13 +6,13 @@ isBasedOnUrl: 'http://www.coroflot.com/jkeegan77/Sketches'
 inLanguage: null
 starred: false
 keywords: []
-description: Various hand drawn sketches.
-datePublished: '2015-11-14T04:08:58.251Z'
-dateModified: '2015-11-14T04:08:54.524Z'
+description: ''
+datePublished: '2015-11-14T04:32:08.385Z'
+dateModified: '2015-11-14T04:32:05.573Z'
 author: []
 related: []
 app_links: []
-title: Sketches by Jamie Keegan at Coroflot.com
+title: 'Sketches '
 sourcePath: _posts/2015-11-14-sketches-by-jamie-keegan-at-coroflotcom.md
 published: true
 authors: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Sketches by Jamie Keegan at Coroflot.com</h1><p>Various hand drawn sketches.</p><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1330094_cover_t8yvg7a4le33zg0gl66g.jpg" /></article>
+<article style=""><h1>Sketches </h1><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1330094_cover_t8yvg7a4le33zg0gl66g.jpg" /></article>
