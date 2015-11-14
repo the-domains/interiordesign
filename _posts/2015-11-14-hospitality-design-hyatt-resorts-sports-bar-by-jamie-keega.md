@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - projects
   - colonized
 description: "Union Jack'z sports bar is located within the Hyatt Ziva Rose Hall Resort, Montego Bay, Jamaica. "
-datePublished: '2015-11-14T04:39:44.163Z'
-dateModified: '2015-11-14T04:39:40.612Z'
+datePublished: '2015-11-14T04:51:30.990Z'
+dateModified: '2015-11-14T04:51:27.679Z'
 author: []
 related: []
 app_links: []
