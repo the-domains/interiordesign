@@ -4,8 +4,15 @@
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
         <link>https://thegrid.ai/interiordesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 06:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 06:04:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interiordesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_9pfyxggxcfk9r72meq0agjfkb.jpg">]]></description>
+            <link>https://thegrid.ai/interiordesign/ae40cfeb-b993-4d52-8551-64adce8a6fba/index.html</link>
+            <guid isPermaLink="false">ae40cfeb-b993-4d52-8551-64adce8a6fba</guid>
+            <pubDate>Sat, 14 Nov 2015 06:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_befbo6hfd_fe8gbgc8l07ejpr.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/interiordesign/hospitality-design/index.html</link>
             <guid isPermaLink="false">07510314-6336-4a55-abda-fa576df1d0fa</guid>
             <pubDate>Sat, 14 Nov 2015 05:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Residential Design]]></title>
-            <description><![CDATA[<article><h1>Residential Design</h1><p>Colorado Vacation Home</p><img src="http://s3images.coroflot.com/user_files/individual_files/327436_8metugvgo05_57mxfcaffmmhm.png"></article>]]></description>
-            <link>https://thegrid.ai/interiordesign/residential-design/index.html</link>
-            <guid isPermaLink="false">44b5ffb4-9d23-4aab-a1d4-bec0e115e523</guid>
-            <pubDate>Sat, 14 Nov 2015 04:54:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
