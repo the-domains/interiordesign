@@ -4,8 +4,15 @@
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
         <link>https://thegrid.ai/interiordesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 06:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 06:04:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interiordesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_qdrwmlxs4vepu388vw7dxsv4z.jpg">]]></description>
+            <link>https://thegrid.ai/interiordesign/6cf58698-cd01-4937-9786-59e507e2cf10/index.html</link>
+            <guid isPermaLink="false">6cf58698-cd01-4937-9786-59e507e2cf10</guid>
+            <pubDate>Sat, 14 Nov 2015 06:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_9pfyxggxcfk9r72meq0agjfkb.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/interiordesign/f0c51663-2826-41a4-bcb1-fe89e4b226e5/index.html</link>
             <guid isPermaLink="false">f0c51663-2826-41a4-bcb1-fe89e4b226e5</guid>
             <pubDate>Sat, 14 Nov 2015 06:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hospitality Design]]></title>
-            <description><![CDATA[<article><h1>Hospitality Design</h1><img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_ztag6onjqr9wteyfxxon6sw08.png"></article>]]></description>
-            <link>https://thegrid.ai/interiordesign/hospitality-design/index.html</link>
-            <guid isPermaLink="false">07510314-6336-4a55-abda-fa576df1d0fa</guid>
-            <pubDate>Sat, 14 Nov 2015 05:57:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
