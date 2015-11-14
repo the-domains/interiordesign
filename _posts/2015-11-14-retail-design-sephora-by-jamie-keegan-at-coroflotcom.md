@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.coroflot.com'
-  name: Coroflot
-  favicon: 'http://www.coroflot.com/images/favicon.ico'
-  domain: www.coroflot.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.coroflot.com/jkeegan77/Retail-Design-Sephora'
+inLanguage: en
+starred: false
 keywords:
   - design
   - sephora
@@ -18,19 +17,22 @@ keywords:
   - stores
   - retail
 description: 'Retail Design Project Updated look and feel for Sephora stores, including new fixture design, layout, and integration of digital media.'
-inLanguage: en
+datePublished: '2015-11-14T04:26:17.593Z'
+dateModified: '2015-11-14T04:26:14.789Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.coroflot.com/jkeegan77/Retail-Design-Sephora'
 title: Retail Design - Sephora by Jamie Keegan at Coroflot.com
-datePublished: '2015-11-14T04:23:08.647Z'
-dateModified: '2015-11-13T10:10:11.400Z'
 sourcePath: _posts/2015-11-14-retail-design-sephora-by-jamie-keegan-at-coroflotcom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Coroflot
+  domain: www.coroflot.com
+  url: 'http://www.coroflot.com'
+  favicon: 'http://www.coroflot.com/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Retail Design - Sephora by Jamie Keegan at Coroflot&amp;period;com</h1><p>Retail Design Project Updated look and feel for Sephora stores&amp;comma; including new fixture design&amp;comma; layout&amp;comma; and integration of digital media&amp;period;</p><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1395188_cover_ibpdm7cgdakqdpojetnb.jpg" /></article>
+<article style=""><h1>Retail Design </h1><p>Retail Design Project Updated look and feel for Sephora stores, including new fixture design, layout, and integration of digital media.</p><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1395188_cover_ibpdm7cgdakqdpojetnb.jpg" /></article>
