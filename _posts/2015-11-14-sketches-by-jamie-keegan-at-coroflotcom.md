@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.coroflot.com/jkeegan77/Sketches'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-14T04:32:08.385Z'
-dateModified: '2015-11-14T04:32:05.573Z'
+datePublished: '2015-11-14T04:53:31.657Z'
+dateModified: '2015-11-14T04:53:24.296Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: www.coroflot.com
   url: 'http://www.coroflot.com'
   favicon: 'http://www.coroflot.com/images/favicon.ico'
+url: sketches/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
