@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.coroflot.com/jkeegan77/Hospitality-Design-Hyatt-Resorts-Sports-Bar'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - projects
   - colonized
 description: "Union Jack'z sports bar is located within the Hyatt Ziva Rose Hall Resort, Montego Bay, Jamaica. "
-datePublished: '2015-11-14T04:28:01.097Z'
-dateModified: '2015-11-14T04:27:56.254Z'
+datePublished: '2015-11-14T04:39:44.163Z'
+dateModified: '2015-11-14T04:39:40.612Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.coroflot.com
   url: 'http://www.coroflot.com'
   favicon: 'http://www.coroflot.com/images/favicon.ico'
+url: hospitality-design/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
