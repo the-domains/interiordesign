@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - stores
   - retail
 description: 'Updated look and feel for Sephora stores, including new fixture design, layout, and integration of digital media.'
-datePublished: '2015-11-14T04:40:41.364Z'
-dateModified: '2015-11-14T04:40:32.646Z'
+datePublished: '2015-11-14T04:52:31.801Z'
+dateModified: '2015-11-14T04:52:28.858Z'
 author: []
 related: []
 app_links: []
