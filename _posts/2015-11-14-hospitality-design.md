@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-14T06:34:39.964Z'
-dateModified: '2015-11-14T05:04:46.290Z'
+datePublished: '2015-11-16T03:15:11.010Z'
+dateModified: '2015-11-16T03:15:08.171Z'
 author: []
 title: Hospitality Design
+sourcePath: _posts/2015-11-14-hospitality-design.md
+published: true
 authors: []
 publisher:
   name: s3images.coroflot.com
   domain: s3images.coroflot.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-14-hospitality-design.md
-published: true
 url: hospitality-design/index.html
 _context: 'http://schema.org'
 _type: Article
