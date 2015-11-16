@@ -4,8 +4,15 @@
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
         <link>https://thegrid.ai/interiordesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 03:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 03:18:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interiordesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Concept Model]]></title>
+            <description><![CDATA[<article><h1>Concept Model</h1><p>Staircase</p><img src="http://s3images.coroflot.com/user_files/individual_files/327436_zDDylgcfEppRwnxF8eLQoBCd6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/interiordesign/concept-model/index.html</link>
+            <guid isPermaLink="false">0d519668-9ab7-4260-94cc-c79c9f5c0e14</guid>
+            <pubDate>Mon, 16 Nov 2015 03:17:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nattura]]></title>
             <description><![CDATA[<article><h1>Nattura</h1><p>Rug Design Collection</p><img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_T_wPJ45boZW3mb8SP7zWey4ds.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_pbpvrxmocopnhykbr7hi5jfwe.png</link>
             <guid isPermaLink="false">bddead11-ddd2-4d4b-90cb-fa041ab3a871</guid>
             <pubDate>Mon, 16 Nov 2015 03:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_ajzlypzzrqhnkylmhfgjuypzq.png" alt="" title="">]]></description>
-            <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_ajzlypzzrqhnkylmhfgjuypzq.png</link>
-            <guid isPermaLink="false">c0f8cfa8-a6a2-47c0-918f-dffda0768d17</guid>
-            <pubDate>Mon, 16 Nov 2015 03:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
