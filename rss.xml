@@ -4,8 +4,15 @@
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
         <link>https://thegrid.ai/interiordesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 03:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 03:31:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interiordesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Retail Design]]></title>
+            <description><![CDATA[<article><h1>Retail Design</h1><p>Updated look and feel for Sephora </p><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1395188_cover_ibpdm7cgdakqdpojetnb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/interiordesign/retail-design/index.html</link>
+            <guid isPermaLink="false">572aab55-2c8b-471d-8511-0b3712d5a848</guid>
+            <pubDate>Mon, 16 Nov 2015 03:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hospitality Design]]></title>
             <description><![CDATA[<article><h1>Hospitality Design</h1><p>Hyatt Ziva Rose Hall Resort, Montego Bay, Jamaica. </p><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1622462_cover__7ldym0featljdxz8xcg.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_teyv37hc2geypqfqeq7n0oelo.png</link>
             <guid isPermaLink="false">995ef6f6-e0ff-42ed-97be-37bfa4cc811f</guid>
             <pubDate>Mon, 16 Nov 2015 03:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Exterior Elevation]]></title>
-            <description><![CDATA[<article><h1>West Exterior Elevation</h1><img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_sbx0ytwz2gefncz0poltjqxos.png"></article>]]></description>
-            <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_sbx0ytwz2gefncz0poltjqxos.png</link>
-            <guid isPermaLink="false">2b15fa4b-2230-4109-87ca-7908ad7cba5b</guid>
-            <pubDate>Mon, 16 Nov 2015 03:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
