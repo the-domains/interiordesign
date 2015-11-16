@@ -4,8 +4,15 @@
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
         <link>https://thegrid.ai/interiordesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 03:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 03:17:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interiordesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nattura]]></title>
+            <description><![CDATA[<article><h1>Nattura</h1><p>Rug Design Collection</p><img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_T_wPJ45boZW3mb8SP7zWey4ds.jpg"></article>]]></description>
+            <link>https://thegrid.ai/interiordesign/nattura/index.html</link>
+            <guid isPermaLink="false">3cc4e096-eb13-4da4-a29a-6cc4a2b4a7cd</guid>
+            <pubDate>Mon, 16 Nov 2015 03:16:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hospitality Design]]></title>
             <description><![CDATA[<article><h1>Hospitality Design</h1><img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_ztag6onjqr9wteyfxxon6sw08.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_ajzlypzzrqhnkylmhfgjuypzq.png</link>
             <guid isPermaLink="false">c0f8cfa8-a6a2-47c0-918f-dffda0768d17</guid>
             <pubDate>Mon, 16 Nov 2015 03:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_cu6wmunipn66ampomdzteqhuj.png" alt="" title="">]]></description>
-            <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_cu6wmunipn66ampomdzteqhuj.png</link>
-            <guid isPermaLink="false">971da754-e42b-46cb-aa79-3871fcb365fe</guid>
-            <pubDate>Mon, 16 Nov 2015 03:05:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
