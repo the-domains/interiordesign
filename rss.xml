@@ -4,8 +4,15 @@
         <description><![CDATA[Jamie Keegan - Portfolio]]></description>
         <link>https://thegrid.ai/interiordesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 03:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 18:57:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/interiordesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Retail Design]]></title>
+            <description><![CDATA[<article><h1>Retail Design</h1><p>Updated look and feel for Sephora stores, including new fixture design, layout, and integration of digital media.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85b189a9-969c-41dc-b790-1a8a792b2260.png"></article>]]></description>
+            <link>https://thegrid.ai/interiordesign/retail-design/index.html</link>
+            <guid isPermaLink="false">ad5db781-abfb-4980-90cb-09e6f0ae538b</guid>
+            <pubDate>Thu, 19 Nov 2015 18:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retail Design]]></title>
             <description><![CDATA[<article><h1>Retail Design</h1><p>Updated look and feel for Sephora </p><img src="http://s3images.coroflot.com/user_files/individual_files/projects/327436_1395188_cover_ibpdm7cgdakqdpojetnb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_dc_v4dxcjsyo4pqmk5jojsdsn.png</link>
             <guid isPermaLink="false">3afdc47c-6127-425e-a652-959e80fba7de</guid>
             <pubDate>Mon, 16 Nov 2015 03:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Exterior Elevation]]></title>
-            <description><![CDATA[<article><h1>North Exterior Elevation</h1><img src="http://s3images.coroflot.com/user_files/individual_files/original_327436_teyv37hc2geypqfqeq7n0oelo.png"></article>]]></description>
-            <link>http://s3images.coroflot.com/user_files/individual_files/original_327436_teyv37hc2geypqfqeq7n0oelo.png</link>
-            <guid isPermaLink="false">995ef6f6-e0ff-42ed-97be-37bfa4cc811f</guid>
-            <pubDate>Mon, 16 Nov 2015 03:09:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
